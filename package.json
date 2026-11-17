@@ -1,0 +1,16 @@
+{
+  "name": "food-workbench",
+  "version": "0.1.2",
+  "type": "module",
+  "description": "A shortlist, meal assembly and outing workspace for food in Obsidian.",
+  "scripts": {
+    "build": "tsc --noEmit && node esbuild.config.mjs",
+    "test": "node --experimental-strip-types --test src/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.1",
+    "esbuild": "^0.28.1",
+    "obsidian": "1.14.4",
+    "typescript": "5.9.3"
+  }
+}

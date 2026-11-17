@@ -1,0 +1,9 @@
+{
+  "id": "food-workbench",
+  "name": "食物工作台",
+  "version": "0.1.2",
+  "minAppVersion": "1.13.0",
+  "description": "把最近想吃的券、家中食品和可购买食材放到同一工作空间，组合餐食并规划外出路线。",
+  "author": "vryTfmcat",
+  "isDesktopOnly": false
+}
